@@ -5,3 +5,6 @@ kasmweb/nginx:1.25.3
 twheastasia/aria2-backend
 node:lts-alpine
 nginx:alpine
+ollama/ollama:0.3.0-rocm
+ollama/ollama:0.3.0
+ghcr.io/open-webui/open-webui:main
